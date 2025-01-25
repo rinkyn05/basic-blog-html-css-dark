@@ -55,7 +55,7 @@ raiz/
 Clona el proyecto a tu máquina local usando el siguiente comando:
 
 ```bash
-git clone https://github.com/rinkyn05/basic_blog_html_css
+git clone https://github.com/rinkyn05/basic-blog-html-css-dark
 ```
 
 ### Abrir el Proyecto
