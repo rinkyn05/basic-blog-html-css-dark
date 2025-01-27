@@ -21,10 +21,10 @@ Este es un proyecto sencillo de un sitio web estilo blog con un tema oscuro, cre
 <a href="https://rinkyn05.github.io/basic-blog-html-css-dark/" target="_blank">Haz clic aquí para ver el demo en vivo</a>
 
 ### 📄 Página Principal
-![Vista principal](https://i.postimg.cc/tJfLCJfz/home-dark.png)
+![Vista principal](https://raw.githubusercontent.com/rinkyn05/basic-blog-html-css-dark/refs/heads/main/multimedia/home-dark.png)
 
 ### 📄 Publicación Individual
-![Publicación](https://i.postimg.cc/mDmvJ8yJ/post-dark.png)
+![Publicación](https://raw.githubusercontent.com/rinkyn05/basic-blog-html-css-dark/refs/heads/main/multimedia/post-dark.png)
 
 ---
 
